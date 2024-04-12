@@ -1,5 +1,5 @@
 ---
-title: "Post by Years"
+title: "Archives"
 permalink: /archives/
 layout: posts
 header:

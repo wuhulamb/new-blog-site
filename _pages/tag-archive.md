@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tags"
+title: "Tags"
 permalink: /tags/
 layout: tags
 header:
