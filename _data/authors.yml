@@ -1,0 +1,17 @@
+# Authors
+
+wuhulamb:
+  name        : "wuhulamb"
+  bio         : "Everyday is a new day."
+  avatar      : "/media/favicon/android-chrome-512x512.png"
+  location    : "Wuhu, Anhui"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wuhulamb@163.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://wuhulamb.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wuhulamb"

@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Motto"
+    url: /motto/
+  - title: "About"
+    url: /about/
+
+web:
+  - title: "navigation"
+    children:
+      - title: "Blog"
+        url: /blog/
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
+      - title: "Archives"
+        url: /archives/
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
