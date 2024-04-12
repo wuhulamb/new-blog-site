@@ -29,4 +29,4 @@ header:
 ## Skills
 
 - Python 数据爬取、分析和可视化
-- 博客网站搭建:stuck_out_tongue_closed_eyes:
+- 博客网站搭建
